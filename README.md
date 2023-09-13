@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 魔法教授
 エルマス
 わかば
+テスト
 
 
 # ディレクトリ構成
